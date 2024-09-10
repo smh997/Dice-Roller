@@ -1,2 +1,3 @@
 # Dice-Roller
-A simple android app to roll a dice which is developed by using Jetpack Compose.
+A simple Android app to roll a die, which is developed by using Jetpack Compose.
+You can install the app through the [apk file](https://github.com/smh997/Dice-Roller/blob/master/Dice%20Roller.apk).
